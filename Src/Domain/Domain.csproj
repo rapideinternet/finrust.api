@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>FinRust.Domain</RootNamespace>
+    <AssemblyName>FinRust.Domain</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.ComponentModel.Annotations">
+      <HintPath>..\..\..\..\..\.nuget\packages\system.componentmodel.annotations\4.6.0\ref\netstandard2.1\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
